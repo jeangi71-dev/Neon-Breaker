@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="192" height="192" rx="42" fill="#08142c"/><rect x="25" y="35" width="142" height="22" rx="9" fill="#25c7e8"/><rect x="45" y="68" width="48" height="22" rx="9" fill="#745cff"/><rect x="99" y="68" width="48" height="22" rx="9" fill="#ff4fae"/><rect x="70" y="137" width="52" height="10" rx="5" fill="#2ac9ee"/><circle cx="96" cy="116" r="9" fill="#fff"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="96" fill="#02040b"/>
+<rect x="28" y="28" width="456" height="456" rx="82" fill="#07132b" stroke="#1670e7" stroke-width="12"/>
+<text x="256" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="92" font-weight="900" font-style="italic" fill="#f5f8ff">NEON</text>
+<text x="256" y="340" text-anchor="middle" font-family="Arial,sans-serif" font-size="72" font-weight="900" font-style="italic" fill="#ff35c9">BREAKER</text>
+</svg>
