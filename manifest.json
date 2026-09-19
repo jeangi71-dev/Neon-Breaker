@@ -1,0 +1,10 @@
+{
+  "name":"Neon Breaker",
+  "short_name":"Neon Breaker",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#050a17",
+  "theme_color":"#08142c",
+  "orientation":"portrait",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
